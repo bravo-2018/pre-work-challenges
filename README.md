@@ -23,7 +23,10 @@ Some of you might be thinking, "there's so much out there, how much do I need to
 - How do you create an HTML page?
 - HTML - what are the body and head tags for?
 - How do you recognize an HTML self closing tag? 
+- Pay attention to how to indent your code to keep it neat and tidy.
+- How do you create a comment in HTML?
 - What are the tags h1 - h6 for? 
 - HTML block level vs inline elements, can you explain the difference?
-- CSS how do you use class and id?
+- CSS - how do you use class and id?
+- CSS - play around with the basic selectors
 - How do you connect an HTML and CSS sheet?
