@@ -30,3 +30,8 @@ Some of you might be thinking, "there's so much out there, how much do I need to
 - CSS - how do you use class and id?
 - CSS - play around with the basic selectors
 - How do you connect an HTML and CSS sheet?
+
+
+### 3. COMING SOON! 
+
+Watch this list, because your instructors will be posting more great materials and ideas to help you get started!
