@@ -1,4 +1,4 @@
-# Get Ready For an Awesome Adventure!
+# Get Ready For An Awesome Adventure!
 
 You start bootcamp soon! We at Learn are getting really excited for you to start, and we hope you are too. We have lots of great stuff planned, so we put together this list of things you can do to be ready for day 1:
 
