@@ -34,7 +34,7 @@ Some of you might be thinking, "there's so much out there, how much do I need to
 
 ### 3. CREATE A WEBPAGE!
 
-Now that you've had the chance to get familiar with git and some HTML and CSS under your fingers, try them out! 
+Now that you've had the chance to get familiar with git and had some HTML and CSS under your fingers, try them out! 
 
 THE CHALLENGE:
 
