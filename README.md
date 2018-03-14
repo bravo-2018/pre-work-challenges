@@ -32,6 +32,17 @@ Some of you might be thinking, "there's so much out there, how much do I need to
 - How do you connect an HTML and CSS sheet?
 
 
-### 3. COMING SOON! 
+### 3. CREATE A WEBPAGE!
 
-Watch this list, because your instructors will be posting more great materials and ideas to help you get started!
+Now that you've had the chance to get familiar with git and some HTML and CSS under your fingers, try them out! 
+
+THE CHALLENGE:
+
+STEP 1. 
+With HTML and CSS, build a webpage that could serve as your single page profile website. 
+
+STEP 2:
+Use your admin powers on this repo - create a new repository, name it ["your name" + profile] and push the code you write to it so we can all ooh and ah over your masterful creation. 
+
+Thought Starters:
+You could put up a picture of you, a paragraph about why you want to learn code, a list of past work experience or your crazy hobbies or pets. Really - you can do what you want with your profile page. If you are having trouble figuring out how you want the page to look, draw the layout on paper first, or take a look on theme forest or any websites you like, and try to reproduce what they've done. There's ton's of inspiration out there!
